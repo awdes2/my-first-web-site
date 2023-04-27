@@ -1,0 +1,28 @@
+
+.color-primary{
+    color:rgb(17, 0, 255);
+}
+.font-50{
+    font-size: 50px;
+}
+.select-style1{
+    height: 40px;
+    font-size: 20;
+    color: blue;
+}
+
+.tb-head>tr> td{
+    border: 1px solid black;
+    font-size: 14px;
+    font-weight: bold;
+    color: red;
+}
+.tb-body>tr>td{
+    border: 1px solid black;
+}
+
+
+p{
+    background: yellowgreen;
+    color: darkgreen;
+}
